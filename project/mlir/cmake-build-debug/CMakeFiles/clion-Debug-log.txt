@@ -1,0 +1,7 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu-22.04 --exec /bin/bash -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd '/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug' && /home/e7/app/cmake-3.26.1/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/local/bin/clang '-DCMAKE_CXX_COMPILER=/usr/local/bin/clang++' -G 'CodeBlocks - Unix Makefiles' -S '/mnt/e/github/c++/cpplearn/project/mlir' -B '/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug'"
+-- Using MLIRConfig.cmake in: /usr/local/lib/cmake/mlir
+-- Using LLVMConfig.cmake in: /usr/local/lib/cmake/llvm
+-- Building with -fPIC
+-- Configuring done (2.6s)
+-- Generating done (0.7s)
+-- Build files have been written to: /mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug

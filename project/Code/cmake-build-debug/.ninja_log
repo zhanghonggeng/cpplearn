@@ -1,0 +1,8 @@
+# ninja log v5
+2	465	7020399316901692	E:/github/c++/cpplearn/project/Code/cmake-build-debug/CMakeFiles/cmake.verify_globs	4d4bf7a74b6b0857
+466	3765	7020399345078238	build.ninja	9aef94a132670a3
+2	453	0	E:/github/c++/cpplearn/project/Code/cmake-build-debug/CMakeFiles/cmake.verify_globs	4d4bf7a74b6b0857
+2	1146	7020399366047948	c07_code/CMakeFiles/my_ArraysAndPointers.dir/04_ArraysAndPointers/ArraysAndPointers.cpp.obj	8d43009ae2b7f9f7
+11	1842	7020399372975280	_deps/doctest-build/CMakeFiles/doctest_with_main.dir/doctest/parts/doctest.cpp.obj	5033b39244d6221d
+1842	1939	7020399373902033	_deps/doctest-build/doctest_with_main.lib	a85b63f724965a4a
+1940	2494	7020399379208991	c07_code/my_ArraysAndPointers.exe	5da052398863e049

@@ -1,0 +1,2 @@
+#add_executable(AssignmentOperatortest test.cpp)
+#target_link_libraries(AssignmentOperatortest doctest_with_main)

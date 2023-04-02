@@ -1,0 +1,5 @@
+if(EXISTS "E:/github/c++/cpplearn/project/leetcode_test/cmake-build-debug/leetcode_test[1]_tests.cmake")
+  include("E:/github/c++/cpplearn/project/leetcode_test/cmake-build-debug/leetcode_test[1]_tests.cmake")
+else()
+  add_test(leetcode_test_NOT_BUILT leetcode_test_NOT_BUILT)
+endif()

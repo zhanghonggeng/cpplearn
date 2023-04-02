@@ -1,0 +1,18 @@
+# ninja log v5
+3305	3415	7020544927486488	lib/gtest.lib	f2d2c3f7dbd9dec9
+1522	1638	7020544909725738	_deps/doctest-build/doctest_with_main.lib	a85b63f724965a4a
+21	3303	7020544926377744	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	44570f6a1e729831
+3	1231	7020545841845315	CMakeFiles/my_my_main.dir/02_Singleton/my_main.cpp.obj	6b60964ef462067c
+2	136	0	E:/github/c++/cpplearn/project/CodingInterviewChinese2/cmake-build-debug/CMakeFiles/cmake.verify_globs	db9a0caf484349cb
+32	1421	7020544907569822	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	49810199280f3afe
+11	1522	7020544908609232	_deps/doctest-build/CMakeFiles/doctest_with_main.dir/doctest/parts/doctest.cpp.obj	b9073cf3847f11bb
+3415	3498	7020544928387235	lib/gtest_main.lib	5bedb7035b1c48d0
+1232	1675	7020545846290192	my_my_main.exe	783b4e0fbb3c1f21
+1232	1675	7020545846290192	my_my_main[1]_tests.cmake	783b4e0fbb3c1f21
+1232	1675	7020545846290192	E:/github/c++/cpplearn/project/CodingInterviewChinese2/cmake-build-debug/my_my_main[1]_tests.cmake	783b4e0fbb3c1f21
+125	1303	7020713629924609	build.ninja	4c677a2aac01a4ba
+1	154	0	E:/github/c++/cpplearn/project/CodingInterviewChinese2/cmake-build-debug/CMakeFiles/cmake.verify_globs	db9a0caf484349cb
+3	1506	7020713657852990	CMakeFiles/my_my_main.dir/02_Singleton/my_main.cpp.obj	6b60964ef462067c
+1507	1996	7020713662760701	my_my_main.exe	783b4e0fbb3c1f21
+1507	1996	7020713662760701	my_my_main[1]_tests.cmake	783b4e0fbb3c1f21
+1507	1996	7020713662760701	E:/github/c++/cpplearn/project/CodingInterviewChinese2/cmake-build-debug/my_my_main[1]_tests.cmake	783b4e0fbb3c1f21

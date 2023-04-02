@@ -1,0 +1,5 @@
+add_executable(1 01_nodiscard.cpp)
+add_executable(2 02_maybe_unused.cpp)
+add_executable(3 03_noreturn.cpp)
+add_executable(4 04_deprecated.cpp)
+add_executable(5 05_likelihood.cpp)

@@ -1,0 +1,14 @@
+/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/CMakeFiles/intrinsics_gen.dir
+/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/CMakeFiles/omp_gen.dir
+/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/CMakeFiles/acc_gen.dir
+/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/CMakeFiles/RISCVTargetParserTableGen.dir
+/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/CMakeFiles/mlir-tablegen-targets.dir
+/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/CMakeFiles/mlir-headers.dir
+/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/CMakeFiles/mlir-generic-headers.dir
+/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/CMakeFiles/mlir-doc.dir
+/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/CMakeFiles/toyc-ch1.dir
+/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/CMakeFiles/myLib.dir
+/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/CMakeFiles/edit_cache.dir
+/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/CMakeFiles/rebuild_cache.dir

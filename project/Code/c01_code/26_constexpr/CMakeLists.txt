@@ -1,0 +1,2 @@
+add_executable(01_constexpr 01_constexpr.cpp)
+add_executable(02_constexprClasses 02_constexprClasses.cpp)

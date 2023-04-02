@@ -1,0 +1,2 @@
+/usr/local/bin/llvm-ar Dqc libmyLib.a CMakeFiles/myLib.dir/parser/AST.cpp.o
+/usr/local/bin/llvm-ranlib -D libmyLib.a

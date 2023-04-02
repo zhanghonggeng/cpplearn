@@ -1,0 +1,306 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/FetchContent.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/FindGit.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/FetchContent/CMakeLists.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/doctest-src/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/JetBrains/apps/CLion/ch-0/223.8836.42/bin/cmake/win/x64/share/cmake-3.24/Modules/BasicConfigVersion-SameMajorVersion.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/_deps/doctest-src/scripts/cmake/Config.cmake.in"
+		},
+		{
+			"path" : "c01_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c01_code/05_Enumerations/CMakeLists.txt"
+		},
+		{
+			"path" : "c01_code/10_Attributes/CMakeLists.txt"
+		},
+		{
+			"path" : "c01_code/13_std_pair/CMakeLists.txt"
+		},
+		{
+			"path" : "c01_code/14_optional/CMakeLists.txt"
+		},
+		{
+			"path" : "c01_code/26_constexpr/CMakeLists.txt"
+		},
+		{
+			"path" : "c01_code/27_consteval/CMakeLists.txt"
+		},
+		{
+			"path" : "c01_code/28_References/CMakeLists.txt"
+		},
+		{
+			"path" : "c02_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c07_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c08_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c09_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c10_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c11_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c12_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c13_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c14_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c15_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c16_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c17_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c18_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c19_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c20_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c21_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c22_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c23_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c24_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c25_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c26_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c27_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c29_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c30_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c31_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c32_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c33_code/CMakeLists.txt"
+		},
+		{
+			"path" : "c34_code/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "E:/github/c++/cpplearn/project/Code/cmake-build-debug",
+		"source" : "E:/github/c++/cpplearn/project/Code"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

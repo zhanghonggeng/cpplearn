@@ -1,0 +1,17 @@
+# ninja log v5
+18	137	0	E:/github/c++/cpplearn/project/CodingInterviewChinese2/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	1e1431c9e7c98686
+221	2069	7020548296242539	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	5f11022826b7c1a7
+142	2081	7020548296468063	CMakeFiles/my_my_main.dir/02_Singleton/my_main.cpp.obj	2d0bcc0bfcb5b151
+201	2282	7020548298450089	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	d079d2893fdfec6
+162	2839	7020548304064692	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	c693dbac4bb82e42
+190	2867	7020548304223988	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.obj	fb107e114ad64dd4
+173	4233	7020548317991589	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.obj	f79a23a0a969ce9a
+151	4262	7020548318275980	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.obj	5e671b94d433503c
+212	4313	7020548318739054	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	696d828487a44e1f
+4233	4387	7020548319469000	lib/gmock_main.lib	19677790a51f2b7
+4262	4391	7020548319479066	lib/gmock.lib	67b2f995b0f4277e
+4313	4428	7020548319829596	lib/gtest.lib	f2d2c3f7dbd9dec9
+4428	4510	7020548320777606	lib/gtest_main.lib	5bedb7035b1c48d0
+4510	5244	7020548328182148	my_my_main.exe	698001a010ecaf2e
+4510	5244	7020548328182148	my_my_main[1]_tests.cmake	698001a010ecaf2e
+4510	5244	7020548328182148	E:/github/c++/cpplearn/project/CodingInterviewChinese2/out/build/x64-Debug/my_my_main[1]_tests.cmake	698001a010ecaf2e

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="mlir_test"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\mlir\;CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\llvm\;CMake Files\toy\;CMake Files\toy\Ch1\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="intrinsics_gen">
+				<Option working_dir="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 intrinsics_gen"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="omp_gen">
+				<Option working_dir="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 omp_gen"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="acc_gen">
+				<Option working_dir="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 acc_gen"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RISCVTargetParserTableGen">
+				<Option working_dir="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 RISCVTargetParserTableGen"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mlir-tablegen-targets">
+				<Option working_dir="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 mlir-tablegen-targets"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mlir-headers">
+				<Option working_dir="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 mlir-headers"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mlir-generic-headers">
+				<Option working_dir="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 mlir-generic-headers"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mlir-doc">
+				<Option working_dir="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 mlir-doc"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="toyc-ch1">
+				<Option output="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/bin/toyc-ch1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add option="-DGTEST_HAS_RTTI=0"/>
+					<Add option="-D_DEBUG"/>
+					<Add option="-D_GLIBCXX_ASSERTIONS"/>
+					<Add option="-D_LIBCPP_ENABLE_ASSERTIONS"/>
+					<Add option="-D__STDC_CONSTANT_MACROS"/>
+					<Add option="-D__STDC_FORMAT_MACROS"/>
+					<Add option="-D__STDC_LIMIT_MACROS"/>
+					<Add directory="/mnt/e/github/c++/cpplearn/project/mlir/include"/>
+					<Add directory="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug"/>
+					<Add directory="/mnt/e/github/c++/cpplearn/project/mlir/toy/Ch1/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/../../../../include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/lib/clang/17/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/Makefile&quot;  VERBOSE=1 toyc-ch1"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="toyc-ch1/fast">
+				<Option output="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/bin/toyc-ch1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add option="-DGTEST_HAS_RTTI=0"/>
+					<Add option="-D_DEBUG"/>
+					<Add option="-D_GLIBCXX_ASSERTIONS"/>
+					<Add option="-D_LIBCPP_ENABLE_ASSERTIONS"/>
+					<Add option="-D__STDC_CONSTANT_MACROS"/>
+					<Add option="-D__STDC_FORMAT_MACROS"/>
+					<Add option="-D__STDC_LIMIT_MACROS"/>
+					<Add directory="/mnt/e/github/c++/cpplearn/project/mlir/include"/>
+					<Add directory="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug"/>
+					<Add directory="/mnt/e/github/c++/cpplearn/project/mlir/toy/Ch1/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/../../../../include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/lib/clang/17/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/Makefile&quot;  VERBOSE=1 toyc-ch1/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="myLib">
+				<Option output="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/libmyLib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add option="-D_DEBUG"/>
+					<Add option="-D_GLIBCXX_ASSERTIONS"/>
+					<Add option="-D_LIBCPP_ENABLE_ASSERTIONS"/>
+					<Add option="-D__STDC_CONSTANT_MACROS"/>
+					<Add option="-D__STDC_FORMAT_MACROS"/>
+					<Add option="-D__STDC_LIMIT_MACROS"/>
+					<Add directory="/mnt/e/github/c++/cpplearn/project/mlir/include"/>
+					<Add directory="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug"/>
+					<Add directory="/mnt/e/github/c++/cpplearn/project/mlir/toy/Ch1/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/../../../../include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/lib/clang/17/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/Makefile&quot;  VERBOSE=1 myLib"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="myLib/fast">
+				<Option output="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/libmyLib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add option="-D_DEBUG"/>
+					<Add option="-D_GLIBCXX_ASSERTIONS"/>
+					<Add option="-D_LIBCPP_ENABLE_ASSERTIONS"/>
+					<Add option="-D__STDC_CONSTANT_MACROS"/>
+					<Add option="-D__STDC_FORMAT_MACROS"/>
+					<Add option="-D__STDC_LIMIT_MACROS"/>
+					<Add directory="/mnt/e/github/c++/cpplearn/project/mlir/include"/>
+					<Add directory="/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug"/>
+					<Add directory="/mnt/e/github/c++/cpplearn/project/mlir/toy/Ch1/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/../../../../include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/backward"/>
+					<Add directory="/usr/local/lib/clang/17/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/Makefile&quot;  VERBOSE=1 myLib/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/mnt/e/github/c++/cpplearn/project/mlir/cmake-build-debug/toy/Ch1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/toy/Ch1/include/toy/AST.h">
+			<Option target="myLib"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/toy/Ch1/include/toy/Lexer.h">
+			<Option target="myLib"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/toy/Ch1/include/toy/Parser.h">
+			<Option target="myLib"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/toy/Ch1/parser/AST.cpp">
+			<Option target="toyc-ch1"/>
+			<Option target="myLib"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/toy/Ch1/toyc.cpp">
+			<Option target="toyc-ch1"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/mlir/AddMLIR.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\mlir\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/mlir/MLIRConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\mlir\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/mlir/MLIRConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\mlir\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/mlir/MLIRTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\mlir\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/mlir/MLIRTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\mlir\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/llvm/AddLLVM.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\llvm\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/llvm/CheckCompilerVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\llvm\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/llvm/CheckProblematicConfigurations.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\llvm\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/llvm/DetermineGCCCompatible.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\llvm\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/llvm/FindTerminfo.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\llvm\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/llvm/HandleLLVMOptions.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\llvm\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/llvm/HandleLLVMStdlib.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\llvm\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/llvm/LLVM-Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\llvm\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/llvm/LLVMCheckLinkerFlag.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\llvm\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/llvm/LLVMConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\llvm\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/llvm/LLVMConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\llvm\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/llvm/LLVMDistributionSupport.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\llvm\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/llvm/LLVMExports-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\llvm\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/llvm/LLVMExports.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\llvm\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/../../../../../../../usr/local/lib/cmake/llvm/LLVMProcessSources.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\llvm\"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/c++/cpplearn/project/mlir/toy/Ch1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\toy\Ch1\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
